@@ -13,7 +13,7 @@ const Home = () => {
   return (
     <div id="home" className=''>
       <div >
-        <img className='image' src="https://freedesignfile.com/upload/2016/11/Travel-Concepts-on-the-desktop-HD-picture.jpg" alt="" />
+        <img className='image' src="https://www.incimages.com/uploaded_files/image/1920x1080/getty_504534504_145596.jpg" alt="" />
       </div>
 
 

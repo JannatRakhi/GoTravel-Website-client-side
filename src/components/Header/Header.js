@@ -17,7 +17,7 @@ const Header = () => {
         <>
 
             <Navbar bg="dark" variant="dark" sticky="top" collapseOnSelect expand="lg">
-                <h4 className='text-light px-3'><span>Desti</span>Nation</h4>
+                <h4 className='text-light px-3'>GoTravel</h4>
                 <Container className='text-light' >
                     <Navbar.Toggle />
 
